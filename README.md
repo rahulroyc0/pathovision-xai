@@ -126,4 +126,3 @@ For full experimental details, architectural explanations, and additional visual
 
 ---
 
-© University of Toronto – ECE1513
